@@ -24,7 +24,7 @@
    searchInputEl.setAttribute('placeholder', '');    
  });
 
-/* 
+ /* 
 * 올해 년도 구하고 지정
 * new Date : 날짜 생성자
 * */
